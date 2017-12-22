@@ -1,12 +1,22 @@
-/*body{
-  background-image:  url("../images/mickeymouse.jpg");
-  height: 100%;
+
+body{
+  background-image:  url("../images/nba3.jpg");
+  height: 75%;
     background-repeat: no-repeat;
     background-size: cover;
-}*/
+}
 #trivia_question{
-  border: #000 1px solid;
+  border: #000 5px solid;
   padding: 10px 40px 40px 40px;
   background: rgba(225, 225, 225, 0.5);
 }
-Add Comment Collapse
+
+#trivia_timer{
+
+  color: yellow;
+}
+
+#trivia_question{
+
+  color: blue;
+}
